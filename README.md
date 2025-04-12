@@ -9,4 +9,6 @@
 - **3.reverse:**  
   Create a function that reverses a string.  
   写一个逆序字符串的函数。  
-  
+- **4.JumpingSteps:**  
+  Using recursion to writing the project of jumping steps.  
+  使用递归写出跳台阶。  
